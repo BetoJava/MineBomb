@@ -1,5 +1,5 @@
 # MineBomb minigame
 
-![Screeshot](data/screeshot.jpg)
+![Screeshot](data/screenshot.jpg)
 
 Made with Python
